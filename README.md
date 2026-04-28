@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 ---
 
-### 🏆 Developer Reputation
+### 📊 Weekly Coding Focus (WakaTime)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tawhid-01&theme=dracula&column=7&margin-w=15&no-bg=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tawhid-01&theme=dracula&layout=compact&langs_count=7&hide_title=true&hide_progress=true" height="200" />
 </p>
 
 ---
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ### 🐍 The contribution_snake.exe
 <p align="center">
-  <img src="https://github.com/Tawhid-01/Tawhid-01/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Tawhid-01/Tawhid-01/output/github-contribution-grid-snake.svg" alt="Snake" />
 </p>
 
 <p align="right"><i>Last updated: 2026-04-28</i></p>
