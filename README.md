@@ -18,4 +18,16 @@ Here are some ideas to get you started:
 ![Tawhid-01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tawhid-01&show_icons=true&theme=radical)
 
 ### Most Used Languages 💻
-![HTML ,CSS ,JS EXPRESS ,MONGODB ,PYTHON ,DJANGO](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=vision-glow)
+### Tech Stack 🛠️
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+
+
+
+![Visitors](https://komarev.com/ghpvc/?username=Tawhid-01&color=blueviolet&style=flat-square)
