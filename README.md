@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### My GitHub Stats 🚀
-![Tawhid-01 GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Tawhid-01](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ### Most Used Languages 💻
-![HTML CSS JS EXPRESS MONGODB PYTHON DJANGO](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=vision-glow)
+![HTML ,CSS ,JS EXPRESS ,MONGODB ,PYTHON ,DJANGO](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=vision-glow)
