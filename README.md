@@ -1,57 +1,113 @@
-# 💫 About Me
+<!-- #region 👋 WELCOME SECTION WITH TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=F781F7&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Tawhid!;Full+Stack+Developer;3D+Enthusiast;Problem+Solver;Welcome+to+my+GitHub!" alt="Typing animation" />
+</p>
 
-Hey there! I'm **Tawhid** — a Full Stack Developer who loves building things that live on the internet. I focus on creating smooth, interactive experiences from database to UI.
-
-🔭 **Currently exploring:** Advanced React patterns & Django REST frameworks  
-🌱 **Leveling up:** Cloud deployment & system design  
-💬 **Ask me about:** JavaScript, Python, React, Node.js, or anything web dev!  
-✨ **Fun fact:** My portfolio has a 3D scene — go check it out!  
-
-## 🚀 My Tech Playground
-
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### Tools & Others
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-## 📊 GitHub Journey
-
-![Tawhid-01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tawhid-01&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tawhid-01&layout=compact&theme=radical&hide_border=true)
-
-## 🏆 What Drives Me
-
-- Building responsive, full-stack apps that people actually want to use
-- Creating 3D interactive elements that surprise and delight
-- Writing clean, maintainable code (future me will thank past me)
-- Learning something new every day
-
-## 🌐 Connect & Explore
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-3D_Experience-ff69b4?style=for-the-badge&logo=vercel&logoColor=white)](https://3-d-portfolio-eight-eta.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Tawhid--01-181717?style=for-the-badge&logo=github)](https://github.com/Tawhid-01)
-*(Add your LinkedIn/Twitter here when ready)*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tawhid-01&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views counter" />
+  <img src="https://img.shields.io/github/followers/Tawhid-01?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Tawhid-01?label=Total%20Stars&style=social" alt="GitHub stars" />
+</p>
 
 ---
 
-### ⚡ GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tawhid-01&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<!-- #region 🎨 LIVE STATUS BOARD -->
+<h2 align="center">📡 LIVE STATUS BOARD</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tawhid-01&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=F781F7&icon_color=79FF97" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawhid-01&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=F781F7" />
+</p>
+
+<!-- #region 🔥 ACTIVITY & STREAK TRACKER -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tawhid-01&theme=radical&hide_border=true&background=0D1117&stroke=F781F7&ring=F781F7&fire=79FF97&currStreakNum=FFFFFF" alt="GitHub streak counter" />
+</p>
 
 ---
 
-**“Code. Create. Repeat.”** 🔁
+<!-- #region 🎯 3D INTERACTIVE TECH CLOUD -->
+<h2 align="center">⚡ INTERACTIVE TECH STACK</h2>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Tawhid-01/Tawhid-01/output/github-contribution-grid-snake.svg" alt="Snake Animation" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,django,html,css,vercel,git,vscode&perline=5" alt="Tech icons with hover effects" />
+</p>
+
+<p align="center">
+  <i>(Hover over icons — they react!)</i>
+</p>
+
+---
+
+<!-- #region 🕹️ LIVE CODING ACTIVITY -->
+<h2 align="center">🎮 WHAT I'M UP TO RIGHT NOW</h2>
+
+<!-- Spotify/Ryot Studio: Shows what you're coding to (optional) -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tawhid-01&theme=radical" alt="GitHub activity graph with animations">
+  </a>
+</p>
+
+---
+
+<!-- #region 🚀 FEATURED PROJECT SPOTLIGHT -->
+<h2 align="center">✨ MIND-BLOWING PROJECTS</h2>
+
+<p align="center">
+  <a href="https://3-d-portfolio-eight-eta.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_3D_PORTFOLIO-LIVE_DEMO-ff69b4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="3D Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <i>⬆️ Click this — it's a fully interactive 3D experience I built from scratch ⬆️</i>
+</p>
+
+<!-- #region 🤝 CONNECT WITH ME -->
+<h2 align="center">📫 LET'S COLLABORATE</h2>
+
+<p align="center">
+  <a href="https://github.com/Tawhid-01">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://3-d-portfolio-eight-eta.vercel.app/">
+    <img src="https://img.shields.io/badge/3D_Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <!-- Add your LinkedIn here -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- #region 🎵 DYNAMIC QUOTE ROTATOR -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote that changes each visit" />
+</p>
+
+---
+
+<!-- #region 📈 SNAKE GAME (EATS YOUR CONTRIBUTIONS) 🤯 -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tawhid-01/Tawhid-01/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tawhid-01/Tawhid-01/output/github-snake.svg" />
+    <img alt="GitHub Snake Game" src="https://raw.githubusercontent.com/Tawhid-01/Tawhid-01/output/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tawhid-01/Tawhid-01/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
 
 
 <p align="center"> <i>⚡ Always building, always learning ⚡</i><br> <i>Last updated: 2026-04-28</i> </p>
