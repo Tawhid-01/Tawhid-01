@@ -14,58 +14,54 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">👨‍💻 Tawhid-01 | Full Stack Architect</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Tawhid!;Full+Stack+Developer;Python+%26+Django+Expert;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Python+Django+%26+React;Automating+Everything;Constant+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Tawhid-01&color=blueviolet&style=flat-square" alt="Tawhid-01" />
-</p>
-
----
-
-### 🏆 My Achievements
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Tawhid-01&theme=radical&column=7&margin-w=15" alt="Tawhid-01 Trophies" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=Tawhid-01&color=9D4EDD&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
 </p>
 
 ---
 
-### 📊 GitHub Power Stats
+### 🏆 Developer Reputation
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tawhid-01&show_icons=true&theme=radical&rank_icon=github" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawhid-01&layout=compact&theme=radical" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tawhid-01&theme=dracula&column=7&margin-w=15&no-bg=true" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Ecosystem & Tooling
 <p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-### 🐍 The Contribution Snake
+### 📈 Metrics of Impact
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tawhid-01&show_icons=true&theme=dracula&count_private=true&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawhid-01&layout=compact&theme=dracula&hide_border=true" height="180" />
+</p>
+
+---
+
+### ⚡ Real-Time Activity Feed
+*Currently polishing my next big project...*
+---
+
+### 🐍 The contribution_snake.exe
 <p align="center">
   <img src="https://github.com/Tawhid-01/Tawhid-01/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
----
-
-### 📫 Connect with me:
-<p align="center">
-<a href="https://linkedin.com/in/your-profile-here"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<p align="right"><i>Last updated: 2026-04-28</i></p>
 
 
 
