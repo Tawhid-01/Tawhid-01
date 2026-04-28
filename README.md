@@ -45,4 +45,4 @@ Cloud-native architectures
 <p align="center"> <i>⚡ Always building, always learning ⚡</i><br> <i>Last updated: 2026-04-28</i> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Tawhid-01&color=9D4EDD&style=for-the-badge&label=VISITORS" alt="Visitors" /> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Tawhid-01&color=9D4EDD&style=for-the-badge&label=VISITORS" alt="Visitors" /> </p>
+
