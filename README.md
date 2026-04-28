@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### ⚡ GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tawhid-01&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Tawhid-01&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -52,13 +52,12 @@ Here are some ideas to get you started:
 
 ---
 
-### 🐍 The contribution_snake.exe
+### 🐍 contribution_snake.exe
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tawhid-01/Tawhid-01/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/Tawhid-01/Tawhid-01/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 <p align="right"><i>Last updated: 2026-04-28</i></p>
-
 
 
 ![Visitors](https://komarev.com/ghpvc/?username=Tawhid-01&color=blueviolet&style=flat-square)
