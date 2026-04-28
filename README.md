@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 Weekly Coding Focus (WakaTime)
+### ⚡ GitHub Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tawhid-01&theme=dracula&layout=compact&langs_count=7&hide_title=true&hide_progress=true" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tawhid-01&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -50,10 +50,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawhid-01&layout=compact&theme=dracula&hide_border=true" height="180" />
 </p>
 
----
-
-### ⚡ Real-Time Activity Feed
-*Currently polishing my next big project...*
 ---
 
 ### 🐍 The contribution_snake.exe
