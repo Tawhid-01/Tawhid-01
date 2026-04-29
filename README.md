@@ -50,6 +50,16 @@
 </p>
 
 ---
+## 🏗️ System Architecture (Real Backend Thinking)
+
+```mermaid id="arch-9921"
+flowchart LR
+User --> API[FastAPI / Django API]
+API --> Cache[(Redis Cache)]
+API --> DB[(PostgreSQL)]
+API --> Queue[Message Queue]
+Queue --> Worker[Async Workers]
+Worker --> DB
 
 <!-- #region 🚀 FEATURED PROJECT SPOTLIGHT -->
 <h2 align="center">✨ MIND-BLOWING PROJECTS</h2>
