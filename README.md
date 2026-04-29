@@ -52,7 +52,7 @@
 ---
 ## 🏗️ System Architecture (Real Backend Thinking)
 
-```mermaid id="arch-9921"
+mermaid
 flowchart LR
 User --> API[FastAPI / Django API]
 API --> Cache[(Redis Cache)]
