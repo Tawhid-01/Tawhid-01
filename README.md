@@ -44,129 +44,60 @@
 </p>
 
 ---
-<!-- #region 🚀 FEATURED PROJECT SPOTLIGHT -->
 
 <h2 align="center">✨ MIND-BLOWING PROJECTS</h2>
 
-
-
 <p align="center">
-
   <a href="https://3-d-portfolio-eight-eta.vercel.app/">
-
     <img src="https://img.shields.io/badge/🚀_3D_PORTFOLIO-LIVE_DEMO-ff69b4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="3D Portfolio" />
-
   </a>
-
 </p>
-
-
 
 <p align="center">
-
   <i>⬆️ Click this — it's a fully interactive 3D experience I built from scratch ⬆️</i>
-
 </p>
-
-
-
-<!-- #region 🤝 CONNECT WITH ME -->
-
 <h2 align="center">📫 LET'S COLLABORATE</h2>
 
-
-
 <p align="center">
-
   <a href="https://github.com/Tawhid-01">
-
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
   </a>
-
   <a href="https://3-d-portfolio-eight-eta.vercel.app/">
-
     <img src="https://img.shields.io/badge/3D_Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
-
   </a>
-
-  <!-- Add your LinkedIn here -->
-
-  <a href="#">
-
+  <a href="INSERT_YOUR_LINKEDIN_URL_HERE">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-
   </a>
-
 </p>
-
-
-
 ---
 
-
-
-<!-- #region 🎵 DYNAMIC QUOTE ROTATOR -->
-
 <p align="center">
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote that changes each visit" />
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
 </p>
-
-
-
 ---
 
-
-
-<!-- #region 📈 SNAKE GAME (EATS YOUR CONTRIBUTIONS) 🤯 -->
-
 <p align="center">
-
   <picture>
-
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tawhid-01/Tawhid-01/output/github-snake-dark.svg" />
-
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tawhid-01/Tawhid-01/output/github-snake.svg" />
-
     <img alt="GitHub Snake Game" src="https://raw.githubusercontent.com/Tawhid-01/Tawhid-01/output/github-snake.svg" />
-
   </picture>
-
 </p>
-
-
 
 <p align="center">
-
   <img src="https://raw.githubusercontent.com/Tawhid-01/Tawhid-01/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-
 </p>
-
-
-
 ---
 
-
-
 <p align="center">
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-
 </p>
 
-
-
-
-
-
-
-<p align="center"> <i>⚡ Always building, always learning ⚡</i><br> <i>Last updated: 2026-04-28</i> </p>
-
-
+<p align="center"> <i>⚡ Always building, always learning ⚡</i><br> <i>Last updated: 2026-04-29</i> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Tawhid-01&color=9D4EDD&style=for-the-badge&label=VISITORS" alt="Visitors" /> </p>
+
+---
 
 ## 🏗️ System Architecture (Real Backend Thinking)
 
