@@ -32,7 +32,8 @@
 <h2 align="center">⚡ INTERACTIVE TECH STACK</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,django,html,css,vercel,git,vscode&perline=5" alt="Tech icons with hover effects" />
+ <!-- Updated Skill Icons to include Database and Backend tools -->
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,python,django,threejs,mongodb,postgres,redis&perline=5" />
 </p>
 
 <p align="center">
