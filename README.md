@@ -4,7 +4,13 @@
 </p>
 
 <p align="center">
+
   <img src="https://komarev.com/ghpvc/?username=Tawhid-01&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views counter" />
+
+  <img src="https://img.shields.io/github/followers/Tawhid-01?label=Followers&style=social" alt="GitHub followers" />
+
+  <img src="https://img.shields.io/github/stars/Tawhid-01?label=Total%20Stars&style=social" alt="GitHub stars" />
+
 </p>
 ---
 
