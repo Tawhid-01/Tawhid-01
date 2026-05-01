@@ -25,6 +25,8 @@
 </p>
 
 ---
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <!-- #region 🎯 3D INTERACTIVE TECH CLOUD -->
 <h2 align="center">⚡ INTERACTIVE TECH STACK</h2>
