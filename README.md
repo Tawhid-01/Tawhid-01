@@ -5,10 +5,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tawhid-01&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views counter" />
-  <img src="https://img.shields.io/github/followers/Tawhid-01?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Tawhid-01?label=Total%20Stars&style=social" alt="GitHub stars" />
 </p>
-
 ---
 
 <!-- #region 🎨 LIVE STATUS BOARD -->
@@ -16,7 +13,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tawhid-01&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=F781F7&icon_color=79FF97" alt="Tawhid's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawhid-01&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=F781F7" alt="Tawhid's Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawhid-01&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=F781F7" alt="Most Used Languages" />
 </p>
 
 <!-- #region 🔥 ACTIVITY & STREAK TRACKER -->
