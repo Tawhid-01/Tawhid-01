@@ -78,9 +78,10 @@
     <img src="https://img.shields.io/badge/3D_Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <!-- Add your LinkedIn here -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/md-tawhid-973b433a2/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
+
 </p>
 
 ---
