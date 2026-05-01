@@ -5,7 +5,7 @@
 
 <p align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=Tawhid-01&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views counter" />
+<img src="https://komarev.com/ghpvc/?username=Tawhid-01&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile views counter" />
 
   <img src="https://img.shields.io/github/followers/Tawhid-01?label=Followers&style=social" alt="GitHub followers" />
 
