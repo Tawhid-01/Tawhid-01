@@ -15,8 +15,8 @@
 <h2 align="center">📡 LIVE STATUS BOARD</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tawhid-01&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=F781F7&icon_color=79FF97" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawhid-01&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=F781F7" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tawhid-01&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=F781F7&icon_color=79FF97" alt="Tawhid's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawhid-01&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=F781F7" alt="Tawhid's Top Languages" />
 </p>
 
 <!-- #region 🔥 ACTIVITY & STREAK TRACKER -->
