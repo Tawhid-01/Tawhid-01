@@ -4,7 +4,9 @@ on:
   schedule:
     - cron: '*/30 * * * *' # Updates every 30 mins
   workflow_dispatch:
-
+  
+permissions:
+  contents: write
 jobs:
   update-readme:
     runs-on: ubuntu-latest
