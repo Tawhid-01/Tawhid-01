@@ -18,12 +18,9 @@
 <h2 align="center">📡 LIVE STATUS BOARD</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawhid-01&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=F781F7" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tawhid-01&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=F781F7" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Tawhid-01&show_icons=true&theme=radical&bg_color=0D1117&title_color=F781F7&hide_border=true" alt="Tawhid's GitHub Stats" />
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Tawhid-01&show_icons=true&theme=radical&bg_color=0D1117&title_color=F781F7&hide_border=true" alt="Tawhid's GitHub Stats" />
-</p>
-
 <!-- #region 🔥 ACTIVITY & STREAK TRACKER -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tawhid-01&theme=radical&hide_border=true&background=0D1117&stroke=F781F7&ring=F781F7&fire=79FF97&currStreakNum=FFFFFF" alt="GitHub streak counter" />
